@@ -1,3 +1,7 @@
+
+⇣
+Pull down to refresh
+
 {
     "name": "It's Ourple!!",
     "description": "me when i fuckin ourple",
@@ -69,7 +73,7 @@
             "#000000"
         ],
         "BACKGROUND_MOD_MUTED": [
-            "#000000"
+            "#1a1a1a"
         ],
         "BACKGROUND_MOD_STRONG": [
             "#2d0333"
@@ -217,3 +221,4 @@
     },
     "spec": 2
 }
+
