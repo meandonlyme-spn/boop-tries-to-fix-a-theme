@@ -7,7 +7,7 @@
             "id": "Noneya"
         }
     ],
-    "semanticColors": {
+    "themeColors": {
         "TEXT_DEFAULT": [
             "#b30ba7"
         ],
@@ -171,7 +171,7 @@
             "#2d0333"
         ]
     },
-    "rawColors": {
+    "themeColors": {
         "PLUM_1": "#b30ba7",
         "PLUM_3": "#b30ba7",
         "PLUM_6": "#b30ba7",
